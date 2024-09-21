@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto">
         <div className="flex flex-col md:flex-row justify-between">
           <div className="footer-logo mb-4 md:mb-0">
-            <h1 className="text-xl font-bold">MyBrand</h1>
+            <h1 className="text-xl font-bold">Printify</h1>
           </div>
           <ul className="space-y-2 mb-4 md:mb-0">
             <li><a href="#about" className="hover:text-orange-500">About</a></li>
